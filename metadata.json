@@ -1,0 +1,6 @@
+{
+  "name": "Market Pilot AI",
+  "description": "Executive digital marketing command center for high-velocity multi-channel campaign automation, AI content generation, and lead intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
